@@ -7,5 +7,6 @@ namespace JCM.API.TestPages
 {
   public class TestClass
   {
+    //Test Class Created
   }
 }
